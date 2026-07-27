@@ -1,64 +1,55 @@
 <h1 align="center">Sione Likiliki</h1>
 
 <p align="center">
-  Network Engineer · Telecom Systems · Software Development
+  <strong>Network Engineer</strong> · Telecom Systems · Software Development
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sioneflikiliki/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/sioneflikiliki/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell" />
-  <img src="https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="gRPC" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
----
+## About
 
-### About
+I'm a network engineer working where carrier infrastructure meets the software that runs on top of it — keeping telecom systems reliable, and building the reporting and automation tooling that makes them observable. Alongside that, I work on distributed systems and applied machine learning.
 
-Network engineer working across carrier infrastructure and the software that runs on top of it.
-Day to day that means keeping telecom systems healthy and building the reporting and automation
-tooling that makes them observable. Outside of that I work on distributed systems and applied
-machine learning.
+- **Currently** — building automated reporting pipelines for Huawei OCS charging systems
+- **Interests** — network automation, system observability, and distributed systems
+- **Open to** — collaboration on network automation and observability tooling
 
-- Currently building automated reporting pipelines for Huawei OCS charging systems
-- Interested in the overlap between network operations and software engineering
-- Open to collaborating on network automation and observability tooling
+## Technical Focus
 
-### Technical Focus
+**Networking & Telecom** — Carrier network operations, Huawei OCS, service monitoring, fault troubleshooting
 
-**Networking & Telecom** — Carrier network operations, Huawei OCS, service monitoring, troubleshooting
-
-**Automation & Scripting** — Shell, Python, reporting pipelines, scheduled jobs
+**Automation & Scripting** — Shell, Python, reporting pipelines, scheduled automation
 
 **Software** — Java, TypeScript, distributed systems (gRPC, RMI), REST APIs
 
 **Data & ML** — Python, Jupyter, pandas, scikit-learn
 
-### Selected Projects
+## Selected Projects
 
-**[TF-Admin-Dashboard](https://github.com/JonLiki/TF-Admin-Dashboard)** — TypeScript
-Admin dashboard for the To'a Fatalona fitness group, tracking weight, distance, lifestyle
-metrics and attendance across members.
+**[CS412-Project](https://github.com/JonLiki/CS412-Project)** · Jupyter Notebook<br>
+AI-based intrusion detection system built to improve detection of rare network cyberattacks.
 
-**[ring-election-grpc](https://github.com/JonLiki/ring-election-grpc)** — Java
-Ring-based leader election implemented over gRPC, exploring consensus and failure handling
-in distributed systems.
+**[TF-Admin-Dashboard](https://github.com/JonLiki/TF-Admin-Dashboard)** · TypeScript<br>
+Admin dashboard for the To'a Fatalona fitness group — tracks member weight, distance, lifestyle metrics, and attendance.
 
-**[election-rmi-with-register](https://github.com/JonLiki/election-rmi-with-register)** — Java
-Distributed leader election using Java RMI, with a companion
-[registry-free variant](https://github.com/JonLiki/election-rmi-without-register) comparing
-the two service-discovery approaches.
+**[ring-election-grpc](https://github.com/JonLiki/ring-election-grpc)** · Java<br>
+Ring-based leader election over gRPC, covering consensus and node failure handling in distributed systems.
 
-**[CS412-AI-Project](https://github.com/JonLiki/CS412-Project)** — Jupyter Notebook
-Built an AI-based intrusion detection system to improve the detection of rare network cyberattacks.
+**[election-rmi-with-register](https://github.com/JonLiki/election-rmi-with-register)** · Java<br>
+Distributed leader election using Java RMI, paired with a [registry-free variant](https://github.com/JonLiki/election-rmi-without-register) that contrasts two service-discovery approaches.
 
 ---
 
