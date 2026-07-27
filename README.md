@@ -57,8 +57,8 @@ Distributed leader election using Java RMI, with a companion
 [registry-free variant](https://github.com/JonLiki/election-rmi-without-register) comparing
 the two service-discovery approaches.
 
-**[CS412-AI-Labs](https://github.com/JonLiki/CS412-AI-Labs)** — Jupyter Notebook
-Lab work in artificial intelligence covering search, learning algorithms and model evaluation.
+**[CS412-AI-Project](https://github.com/JonLiki/CS412-Project)** — Jupyter Notebook
+Built an AI-based intrusion detection system to improve the detection of rare network cyberattacks.
 
 ---
 
