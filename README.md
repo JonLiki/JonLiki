@@ -5,8 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sione-likiliki">LinkedIn</a> ·
-  <a href="mailto:john.likiliki@gmail.com">Email</a>
+  <a href="https://linkedin.com/in/sione-likiliki">LinkedIn</a>
 </p>
 
 ---
