@@ -63,8 +63,8 @@ Lab work in artificial intelligence covering search, learning algorithms and mod
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JonLiki&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Sione's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonLiki&layout=compact&theme=default&hide_border=true" alt="Top languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JonLiki&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" alt="Sione's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonLiki&layout=compact&theme=default&hide_border=true&cache_seconds=86400" alt="Top languages" height="165" />
 </p>
 
 ---
