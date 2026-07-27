@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sione-likiliki">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/sioneflikiliki/">LinkedIn</a>
 </p>
 
 <p align="center">
