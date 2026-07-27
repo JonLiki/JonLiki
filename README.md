@@ -8,6 +8,17 @@
   <a href="https://linkedin.com/in/sione-likiliki">LinkedIn</a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell" />
+  <img src="https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="gRPC" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
+
 ---
 
 ### About
@@ -48,6 +59,13 @@ the two service-discovery approaches.
 
 **[CS412-AI-Labs](https://github.com/JonLiki/CS412-AI-Labs)** — Jupyter Notebook
 Lab work in artificial intelligence covering search, learning algorithms and model evaluation.
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JonLiki&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Sione's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonLiki&layout=compact&theme=default&hide_border=true" alt="Top languages" height="165" />
+</p>
 
 ---
 
