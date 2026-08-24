@@ -1,31 +1,31 @@
-<h1 align="center">Sione Likiliki</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Network Engineer</strong> · Telecom Systems · Software Development
-</p>
+<h1>Sione Likiliki</h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sioneflikiliki/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=4FC3F7&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hi%2C+I+am+Sione%21;%F0%9F%8C%90+Network+Engineer;%F0%9F%93%A1+Telecom+and+Carrier+Systems;%F0%9F%9B%A0+Automation+and+Observability+Tooling;%F0%9F%9A%80+Open+to+Collaboration" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
-</p>
+I keep carrier networks running, and build the tooling that makes them observable.
 
-## About
+<a href="https://www.linkedin.com/in/sioneflikiliki/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+</div>
+
+---
+
+## About Me
 
 I'm a network engineer working where carrier infrastructure meets the software that runs on top of it — keeping telecom systems reliable, and building the reporting and automation tooling that makes them observable. Alongside that, I work on distributed systems and applied machine learning.
 
 - **Currently** — building automated reporting pipelines for Huawei OCS charging systems
 - **Interests** — network automation, system observability, and distributed systems
 - **Open to** — collaboration on network automation and observability tooling
+
+<p>
+  <a href="https://github.com/JonLiki"><img src="https://komarev.com/ghpvc/?username=JonLiki&color=4FC3F7&style=flat-square&label=Profile+Views" alt="Profile Views" /></a>
+  <a href="https://github.com/JonLiki?tab=followers"><img src="https://img.shields.io/github/followers/JonLiki?label=Followers&style=flat-square&color=4FC3F7" alt="Followers" /></a>
+</p>
 
 ## Technical Focus
 
@@ -37,19 +37,46 @@ I'm a network engineer working where carrier infrastructure meets the software t
 
 **Data & ML** — Python, Jupyter, pandas, scikit-learn
 
-## Selected Projects
+---
 
-**[CS412-Project](https://github.com/JonLiki/CS412-Project)** · Jupyter Notebook<br>
+## Featured Projects
+
+### [CS412-Project](https://github.com/JonLiki/CS412-Project)
 AI-based intrusion detection system built to improve detection of rare network cyberattacks.
+> `Python` · `Machine Learning` · `Cybersecurity`
 
-**[TF-Admin-Dashboard](https://github.com/JonLiki/TF-Admin-Dashboard)** · TypeScript<br>
+### [TF-Admin-Dashboard](https://github.com/JonLiki/TF-Admin-Dashboard)
 Admin dashboard for the To'a Fatalona fitness group — tracks member weight, distance, lifestyle metrics, and attendance.
+> `TypeScript` · `Dashboard` · `Fitness Tracking`
 
-**[ring-election-grpc](https://github.com/JonLiki/ring-election-grpc)** · Java<br>
+### [ring-election-grpc](https://github.com/JonLiki/ring-election-grpc)
 Ring-based leader election over gRPC, covering consensus and node failure handling in distributed systems.
+> `Java` · `gRPC` · `Distributed Systems`
 
-**[election-rmi-with-register](https://github.com/JonLiki/election-rmi-with-register)** · Java<br>
+### [election-rmi-with-register](https://github.com/JonLiki/election-rmi-with-register)
 Distributed leader election using Java RMI, paired with a [registry-free variant](https://github.com/JonLiki/election-rmi-without-register) that contrasts two service-discovery approaches.
+> `Java` · `RMI` · `Distributed Systems`
+
+---
+
+## Tools I Use
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+## Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JonLiki/JonLiki/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JonLiki/JonLiki/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/JonLiki/JonLiki/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
