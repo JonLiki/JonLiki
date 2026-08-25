@@ -10,16 +10,11 @@ I keep carrier networks running, and build the tooling that makes them observabl
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-
 ## About Me
 
 I'm a network engineer working where carrier infrastructure meets the software that runs on top of it — keeping telecom systems reliable, and building the reporting and automation tooling that makes them observable. Alongside that, I work on distributed systems and applied machine learning.
 
 </div>
-
-- **Currently** — building automated reporting pipelines for Huawei OCS charging systems
-- **Interests** — network automation, system observability, and distributed systems
-- **Open to** — collaboration on network automation and observability tooling
 
 <p align="center">
   <a href="https://github.com/JonLiki"><img src="https://komarev.com/ghpvc/?username=JonLiki&color=4FC3F7&style=flat-square&label=Profile+Views" alt="Profile Views" /></a>
