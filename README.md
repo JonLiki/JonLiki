@@ -12,7 +12,6 @@ I keep carrier networks running, and build the tooling that makes them observabl
 
 </div>
 
----
 
 ## About Me
 
