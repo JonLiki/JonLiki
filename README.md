@@ -22,7 +22,7 @@ I'm a network engineer working where carrier infrastructure meets the software t
 - **Interests** — network automation, system observability, and distributed systems
 - **Open to** — collaboration on network automation and observability tooling
 
-<p>
+<p align="center">
   <a href="https://github.com/JonLiki"><img src="https://komarev.com/ghpvc/?username=JonLiki&color=4FC3F7&style=flat-square&label=Profile+Views" alt="Profile Views" /></a>
   <a href="https://github.com/JonLiki?tab=followers"><img src="https://img.shields.io/github/followers/JonLiki?label=Followers&style=flat-square&color=4FC3F7" alt="Followers" /></a>
 </p>
