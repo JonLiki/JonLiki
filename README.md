@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=4FC3F7&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hi%2C+I+am+Sione%21;%F0%9F%8C%90+Network+Engineer;%F0%9F%93%A1+Telecom+and+Carrier+Systems;%F0%9F%9B%A0+Automation+and+Observability+Tooling;%F0%9F%9A%80+Open+to+Collaboration" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=4FC3F7&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hi%2C+I+am+Sione%21;%F0%9F%8C%90+Network+Engineer;%F0%9F%93%A1+Telecom+and+Carrier+Systems;%F0%9F%9B%A0+Automation+and+Observability+Tooling;%F0%9F%9A%80+Open+to+Collaboration" alt="Sione Likiliki — Network Engineer" />
 
 I keep carrier networks running, and build the tooling that makes them observable.
 
@@ -10,7 +10,8 @@ I keep carrier networks running, and build the tooling that makes them observabl
 
 ## About Me
 
-I'm a network engineer working where carrier infrastructure meets the software that runs on top of it — keeping telecom systems reliable, and building the reporting and automation tooling that makes them observable. Alongside that, I work on distributed systems and applied machine learning.
+Currently building automated reporting pipelines for Huawei OCS charging systems.<br>
+Beyond operations, I work on distributed systems and machine learning for network security.
 
 </div>
 
@@ -33,7 +34,7 @@ I'm a network engineer working where carrier infrastructure meets the software t
 
 ## Featured Projects
 
-### [CS412-Project](https://github.com/JonLiki/CS412-Project)
+### [Network Intrusion Detection (ML)](https://github.com/JonLiki/CS412-Project)
 AI-based intrusion detection system built to improve detection of rare network cyberattacks.
 > `Python` · `Machine Learning` · `Cybersecurity`
 
