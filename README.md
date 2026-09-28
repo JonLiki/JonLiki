@@ -22,13 +22,13 @@ Beyond operations, I work on distributed systems and machine learning for networ
 
 ## Technical Focus
 
-**Networking & Telecom** — Carrier network operations, Huawei OCS, service monitoring, fault troubleshooting
+**Networking & Telecom** — Carrier network operations, Huawei OCS charging systems, service monitoring, fault troubleshooting
 
-**Automation & Scripting** — Shell, Python, reporting pipelines, scheduled automation
+**Automation** — Reporting pipelines, scheduled automation, operational tooling
 
-**Software** — Java, TypeScript, distributed systems (gRPC, RMI), REST APIs
+**Distributed Systems** — Leader election, RPC frameworks (gRPC, Java RMI), service discovery, REST APIs
 
-**Data & ML** — Python, Jupyter, pandas, scikit-learn
+**Machine Learning** — Network intrusion detection, rare-attack classification, pandas, scikit-learn
 
 ---
 
