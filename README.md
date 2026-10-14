@@ -28,19 +28,21 @@ Beyond operations, I work on distributed systems and machine learning for networ
 
 **Distributed Systems** — Leader election, RPC frameworks (gRPC, Java RMI), service discovery, REST APIs
 
-**Machine Learning** — Network intrusion detection, rare-attack classification, pandas, scikit-learn
+**Full-Stack Development** — Role-based dashboards, scoring and reporting engines, audit logging, data export
+
+**Machine Learning** — Network intrusion detection, CNNs, imbalanced-class handling, pandas, scikit-learn
 
 ---
 
 ## Featured Projects
 
-### [Network Intrusion Detection (ML)](https://github.com/JonLiki/CS412-Project)
-AI-based intrusion detection system built to improve detection of rare network cyberattacks.
-> `Python` · `Machine Learning` · `Cybersecurity`
+### [CNN-Based Network Intrusion Detection (MAEFS)](https://github.com/JonLiki/CS412-Project)
+Group research project testing CNN-based intrusion detection on the NSL-KDD dataset, with a focus on rare attack classes. Compares oversampling, class weighting and spatial mappings, and introduces MAEFS, a minority-aware feature selection method that improved minority-class recall.
+> `Python` · `TensorFlow` · `Scikit-learn` · `Cybersecurity`
 
 ### [TF-Admin-Dashboard](https://github.com/JonLiki/TF-Admin-Dashboard)
-Admin dashboard for the To'a Fatalona fitness group — tracks member weight, distance, lifestyle metrics, and attendance.
-> `TypeScript` · `Dashboard` · `Fitness Tracking`
+Full-stack management system for the To'a Fatalona fitness program — weigh-ins, distance and attendance tracking, an automated weekly scoring engine, role-based access, audit logging, and PDF/Excel export.
+> `Next.js` · `React` · `TypeScript` · `PostgreSQL` · `Prisma`
 
 ### [ring-election-grpc](https://github.com/JonLiki/ring-election-grpc)
 Ring-based leader election over gRPC, covering consensus and node failure handling in distributed systems.
@@ -59,6 +61,9 @@ Distributed leader election using Java RMI, paired with a [registry-free variant
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
