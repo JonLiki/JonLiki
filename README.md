@@ -1,43 +1,24 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=4FC3F7&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hi%2C+I+am+Sione%21;%F0%9F%8C%90+Network+Engineer;%F0%9F%93%A1+Telecom+and+Carrier+Systems;%F0%9F%9B%A0+Automation+and+Observability+Tooling;%F0%9F%9A%80+Open+to+Collaboration" alt="Sione Likiliki — Network Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hi%2C+I+am+Sione%21;%F0%9F%8C%90+Network+Engineer;%F0%9F%93%A1+Telecom+and+Carrier+Systems;%F0%9F%9B%A0+Automation+and+Observability+Tooling;%F0%9F%9A%80+Open+to+Collaboration" alt="Sione Likiliki — Network Engineer" />
 
 I keep carrier networks running, and build the tooling that makes them observable.
 
-<a href="https://www.linkedin.com/in/sioneflikiliki/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+<a href="https://www.linkedin.com/in/sioneflikiliki/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/JonLiki"><img src="https://komarev.com/ghpvc/?username=JonLiki&color=2F81F7&style=flat-square&label=Profile+Views" alt="Profile Views" /></a>
+<a href="https://github.com/JonLiki?tab=followers"><img src="https://img.shields.io/github/followers/JonLiki?label=Followers&style=flat-square&color=2F81F7" alt="Followers" /></a>
+
+</div>
 
 ## About Me
 
 Currently building automated reporting pipelines for Huawei OCS charging systems.<br>
 Beyond operations, I work on distributed systems and machine learning for network security.
 
-</div>
-
-<p align="center">
-  <a href="https://github.com/JonLiki"><img src="https://komarev.com/ghpvc/?username=JonLiki&color=4FC3F7&style=flat-square&label=Profile+Views" alt="Profile Views" /></a>
-  <a href="https://github.com/JonLiki?tab=followers"><img src="https://img.shields.io/github/followers/JonLiki?label=Followers&style=flat-square&color=4FC3F7" alt="Followers" /></a>
-</p>
-
-## Technical Focus
-
-**Networking & Telecom** — Carrier network operations, Huawei OCS charging systems, service monitoring, fault troubleshooting
-
-**Automation** — Reporting pipelines, scheduled automation, operational tooling
-
-**Distributed Systems** — Leader election, RPC frameworks (gRPC, Java RMI), service discovery, REST APIs
-
-**Full-Stack Development** — Role-based dashboards, scoring and reporting engines, audit logging, data export
-
-**Machine Learning** — Network intrusion detection, CNNs, imbalanced-class handling, pandas, scikit-learn
-
----
-
 ## Featured Projects
 
 ### [CNN-Based Network Intrusion Detection (MAEFS)](https://github.com/JonLiki/CS412-Project)
-Group research project testing CNN-based intrusion detection on the NSL-KDD dataset, with a focus on rare attack classes. Compares oversampling, class weighting and spatial mappings, and introduces MAEFS, a minority-aware feature selection method that improved minority-class recall.
+Group research project on CNN-based intrusion detection for rare attack classes in NSL-KDD. Introduces MAEFS, a minority-aware feature selection method that improved minority-class recall.
 > `Python` · `TensorFlow` · `Scikit-learn` · `Cybersecurity`
 
 ### [TF-Admin-Dashboard](https://github.com/JonLiki/TF-Admin-Dashboard)
@@ -52,27 +33,40 @@ Ring-based leader election over gRPC, covering consensus and node failure handli
 Distributed leader election using Java RMI, paired with a [registry-free variant](https://github.com/JonLiki/election-rmi-without-register) that contrasts two service-discovery approaches.
 > `Java` · `RMI` · `Distributed Systems`
 
----
+## Technical Focus
+
+| Area | Focus |
+|---|---|
+| **Networking & Telecom** | Carrier network operations, Huawei OCS charging systems, service monitoring, fault troubleshooting |
+| **Automation** | Reporting pipelines, scheduled automation, operational tooling |
+| **Distributed Systems** | Leader election, RPC frameworks (gRPC, Java RMI), service discovery, REST APIs |
+| **Full-Stack Development** | Role-based dashboards, scoring and reporting engines, audit logging, data export |
+| **Machine Learning** | Network intrusion detection, CNNs, imbalanced-class handling, pandas, scikit-learn |
 
 ## Tools I Use
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![CMD](https://img.shields.io/badge/CMD-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+**Languages & Scripting**<br>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![CMD](https://img.shields.io/badge/CMD-4D4D4D?style=flat-square&logo=windowsterminal&logoColor=white)
 
----
+**Web & Data**<br>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Networking & Operations**<br>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Dev Tools**<br>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ## Contribution Activity
 
